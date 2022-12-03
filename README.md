@@ -4,7 +4,3 @@
 - 🤔 Desenvolvimento Web
 - 📫 filhoeliel567@gmail.com
 - 😄 Any pronoums
-
-<div align="center">
-  <a href="https://github.com/Sidarta0">
-    </div>
